@@ -7,7 +7,7 @@ Me chamo Kauã Moraes, tenho 18 anos da cidade de Cajamar, interior de São Paul
 <p align="left">
     <a href="https://github.com/kauamoraes">
         <img 
-            alt="Seguidores" 
+            alt="GitHub" 
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/kauamoraes?-segudores color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
